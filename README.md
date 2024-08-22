@@ -1,4 +1,6 @@
 # gopeed-mipsel
+
+https://github.com/GopeedLab/gopeed
 ```
 go 1.22.2
 flulter 3.16.0
