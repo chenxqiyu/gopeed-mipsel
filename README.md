@@ -1,5 +1,9 @@
 # gopeed-mipsel
 ```
+go 1.22.2
+flulter 3.16.0
+```
+```
 sudo apt-get install gccgo-mipsel-linux-gnu
 ```
 ```
