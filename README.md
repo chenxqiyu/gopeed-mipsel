@@ -29,8 +29,9 @@ cp -r ui/flutter/build/web cmd/web/dist
 go build -tags nosqlite,web -ldflags="-s -w" -o bin/ github.com/GopeedLab/gopeed/cmd/web
 ```
 ```
+后台运行:
 chmod a+x gopeed-mipsel-1.5.8
-./gopeed-mipsel-1.5.8
+(./gopeed-mipsel-1.5.8 &)
 ```
 ![image](https://github.com/user-attachments/assets/6ff055c9-8cd2-4c09-b3d6-4b5464b2a1fb)
 
