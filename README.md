@@ -2,6 +2,7 @@
 
 https://github.com/GopeedLab/gopeed
 ```
+Ubuntu 24.04 LTS"
 go 1.22.2
 flulter 3.16.0
 ```
