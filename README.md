@@ -34,4 +34,5 @@ chmod a+x gopeed-mipsel-1.5.8
 (./gopeed-mipsel-1.5.8 &)
 ```
 ![image](https://github.com/user-attachments/assets/6ff055c9-8cd2-4c09-b3d6-4b5464b2a1fb)
+![image](https://github.com/user-attachments/assets/1eb75ab2-a716-4d2c-a3d3-99ee9cd33435)
 
