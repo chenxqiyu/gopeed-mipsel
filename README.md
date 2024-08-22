@@ -23,4 +23,5 @@ rm -rf cmd/web/dist
 cp -r ui/flutter/build/web cmd/web/dist
 go build -tags nosqlite,web -ldflags="-s -w" -o bin/ github.com/GopeedLab/gopeed/cmd/web
 ```
-![image](https://github.com/user-attachments/assets/6abe469c-5287-4b8e-a6e8-7f9f8e3e33f4)
+![image](https://github.com/user-attachments/assets/6ff055c9-8cd2-4c09-b3d6-4b5464b2a1fb)
+
