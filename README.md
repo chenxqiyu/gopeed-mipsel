@@ -10,4 +10,4 @@ export CXX=mipsel-linux-gnu-g++
 
 go build -tags nosqlite,web -ldflags="-s -w" -o bin/ github.com/GopeedLab/gopeed/cmd/web
 
-![image](https://github.com/user-attachments/assets/200303da-1865-4e40-b373-704f96c8e39e)
+![image](https://github.com/user-attachments/assets/6abe469c-5287-4b8e-a6e8-7f9f8e3e33f4)
